@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7", "Win7\Win7.csproj", "{823FF111-4DE2-4637-AF01-4BDC3CA4CF15}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win10_1909", "Win10_1909\Win10_1909.csproj", "{D51301BC-31AA-4475-8944-882ECF80E10D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaunchUACAdmin", "LaunchUACAdmin\LaunchUACAdmin.csproj", "{843D8862-42EB-49EE-94E6-BCA798DD33EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win10_20H1", "Win10_20H1\Win10_20H1.csproj", "{950EF8CE-EC92-4E02-B122-0D41D83065B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{843D8862-42EB-49EE-94E6-BCA798DD33EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843D8862-42EB-49EE-94E6-BCA798DD33EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843D8862-42EB-49EE-94E6-BCA798DD33EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950EF8CE-EC92-4E02-B122-0D41D83065B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950EF8CE-EC92-4E02-B122-0D41D83065B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950EF8CE-EC92-4E02-B122-0D41D83065B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950EF8CE-EC92-4E02-B122-0D41D83065B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
